@@ -1,0 +1,125 @@
+<style type="text/css">
+.mainfont
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: verdana, arial, geneva, helvetica
+}
+.MsgText
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    COLOR: red;
+    FONT-FAMILY: Verdana, Arial
+}
+
+.MenuNavSelect {COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNavSelect a:link {COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNavSelect a:visited {COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNavSelect a:active {COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNavSelect a:hover {COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+
+.MenuNav {COLOR: #959595; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNav a:link {COLOR: #959595; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNav a:visited {COLOR: #959595; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNav a:active {COLOR: #959595; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+.MenuNav a:hover {COLOR: #959595; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial}
+
+.bodytext {font-size: 13px; font-weight:normal; font-family: verdana, arial, geneva, helvetica; color: black}
+.bodytext a:link { color: black; text-decoration: underlne }
+.bodytext a:visited { color:  black; text-decoration: underlne }
+.bodytext a:active { color:  black; text-decoration: underlne }
+.bodytext a:hover { color:  black; text-decoration: none }
+
+.bodytextbold {font-size: 13px; font-weight:bold; font-family: verdana, arial, geneva, helvetica; color: black}
+
+.bodytext2 {font-size: 13px; font-weight:normal; font-family: verdana, arial, geneva, helvetica; color: black}
+.bodytext2 a:link { color: black; text-decoration: none }
+.bodytext2 a:visited { color:  black; text-decoration: none }
+.bodytext2 a:active { color:  black; text-decoration: none }
+.bodytext2 a:hover { color:  black; text-decoration: none }
+
+.tier1 {color: black; font-size: 13px; font-weight:normal; font-family: verdana, arial, geneva, helvetica;}
+.tier1 a:link { color: black; text-decoration: underlne }
+.tier1 a:visited { color:  black; text-decoration: underlne }
+.tier1 a:active { color:  black; text-decoration: underlne }
+.tier1 a:hover { color:  black; text-decoration: none }
+
+
+.BodyTextSmall
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 7pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
+.BodyTextLargeWhite
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 14pt;
+    COLOR: white;
+    FONT-FAMILY: Verdana
+}
+.BodyText
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: verdana, arial, geneva, helvetica
+}
+.BodyTextRed
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: red;
+    FONT-FAMILY: verdana, arial, geneva, helvetica
+}
+.BoldMainWhite
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13pt;
+    COLOR: white;
+    FONT-FAMILY: Verdana
+}
+
+.BodyTextBoldMain {COLOR: #000099; FONT-WEIGHT: bold; FONT-SIZE: 11pt; FONT-FAMILY: verdana; text-decoration: underlne}
+.BodyTextBoldMain a:link { COLOR: #000099; text-decoration: underlne }
+.BodyTextBoldMain a:visited { COLOR: #000099; text-decoration: underlne }
+.BodyTextBoldMain a:active { COLOR: #000099; text-decoration: underlne }
+.BodyTextBoldMain a:hover { COLOR: #000099; text-decoration: underline }
+
+
+.BodyTextMedium {FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana}
+
+.BodyTextBoldSub {COLOR: #000000; font-size: 9pt; FONT-WEIGHT: bold; FONT-FAMILY: Verdana}
+.BodyTextBoldSub a:link {COLOR: #000000; FONT-WEIGHT: bold; FONT-FAMILY: Verdana}
+.BodyTextBoldSub a:visited {COLOR: #000000; FONT-WEIGHT: bold; FONT-FAMILY: Verdana}
+.BodyTextBoldSub a:active {COLOR: #000000; FONT-WEIGHT: bold; FONT-FAMILY: Verdana}
+.BodyTextBoldSub a:hover {COLOR: #000000; FONT-WEIGHT: bold; FONT-FAMILY: Verdana}
+
+.links {COLOR: #000000; font-size: 7.5pt; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.links a:link {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.links a:visited {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.links a:active {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.links a:hover {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana; text-decoration: none}
+
+.waiver {COLOR: #000000; font-size: 7.5pt; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.waiver a:link {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.waiver a:visited {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.waiver a:active {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.waiver a:hover {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana; text-decoration: none}
+
+.variance {COLOR: #000000; font-size: 7.5pt; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.variance a:link {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.variance a:visited {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.variance a:active {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana}
+.variance a:hover {COLOR: #000000; FONT-WEIGHT: normal; FONT-FAMILY: Verdana; text-decoration: none}
+
+
+
+.BodyTextBold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana
+}
+</STYLE>
